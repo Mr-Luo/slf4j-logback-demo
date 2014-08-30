@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JUnit4"/>
+	<classpathentry kind="lib" path="F:/开发工具/Jar/slf4j/slf4j-1.7.7/slf4j-1.7.7/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="F:/开发工具/Jar/slf4j/slf4j-1.7.7/slf4j-1.7.7/slf4j-api-1.7.7-sources.jar"/>
+	<classpathentry kind="lib" path="F:/开发工具/Jar/logback/logback-1.1.2/logback-1.1.2/logback-classic-1.1.2.jar"/>
+	<classpathentry kind="lib" path="F:/开发工具/Jar/logback/logback-1.1.2/logback-1.1.2/logback-core-1.1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
